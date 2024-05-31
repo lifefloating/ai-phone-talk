@@ -6,9 +6,9 @@ module.exports = {
         openai_api_key: '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',
     },
     twilio: {
-        twilio_account_sid: 'xxx',
-        twilio_auth_token: 'xxxx',
-        twilio_phone_number: 'xxx',
+        twilio_account_sid: 'ACc36ddcc9ce1dc8a674dae1168ba03e8c',
+        twilio_auth_token: '0a37a9859201d14f9ef2fea80444ff4b',
+        twilio_phone_number: '+13614231839',
     },
     logger: {
         pm2: true,
