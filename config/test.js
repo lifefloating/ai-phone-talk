@@ -4,7 +4,7 @@ module.exports = {
     debug: true,
     mongodb: `mongodb://nestflo:nestflo!1234....@118.89.136.128:27017/nestflodev`,
     openai: {
-        openai_api_key: 'redis.com',
+        openai_api_key: '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',
     },
     twilio: {
         twilio_account_sid: 'xxx',
