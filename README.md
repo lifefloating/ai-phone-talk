@@ -26,3 +26,6 @@ collection: string(包含如下信息)
 1. user calls
 2. 创建⼀个user，⽬标是和⽤户对话并采访问题1到8并跟新数据库collection
 3. 通话结束后⽴即⾃动发送⼀个sms给user的电话号码，⽬标是采访问题9，10，11并跟新数据库collection
+
+twilio配置：
+ ![My Image](images/image.png)
