@@ -32,6 +32,3 @@ twilio配置：
 docker服务：
  ![My Image2](images/image2.png)
 
-配置ok 服务ok 暂时我的手机号add caller 加不上去 如图：
- ![My Image3](images/image3.png)
-
