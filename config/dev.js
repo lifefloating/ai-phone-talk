@@ -4,14 +4,14 @@
 module.exports = {
     port: 3083,
     debug: true,
-    mongodb: `mongodb://nestflo:nestflo!1234....@118.89.136.128:27017/nestflodev`,
+    mongodb: ``,
     openai: {
         openai_api_key: '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',
     },
     twilio: {
-        twilio_account_sid: 'ACc36ddcc9ce1dc8a674dae1168ba03e8c',
-        twilio_auth_token: '0a37a9859201d14f9ef2fea80444ff4b',
-        twilio_phone_number: '+13614231839',
+        twilio_account_sid: '',
+        twilio_auth_token: '',
+        twilio_phone_number: '',
     },
     logger: {
         pm2: true,
